@@ -1,0 +1,15 @@
+
+Learned Data Types:
+
+String---->Message = "I am a Message"
+Float---->price = 9.99
+int----> day = 9
+boolean----> valid_number = True
+boolean----> exit_input = False
+List-----> list_of_days = [1,2,3,4]
+Set------> set_of_month = {'January', 'February'}
+Dictionary---> days_and_units_dictionary = {"Days":20,"Unit":"Hours"}
+---------------------------------------------------
+
+PyPi = for installing 3rd party packages using pip 
+api requests
